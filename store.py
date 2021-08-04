@@ -1,7 +1,3 @@
-# Ingresar nombre de juegos
-# Precio del juego
-# Año de lanzamiento
-# Fabricante
 import menu
 import new_inventory
 
